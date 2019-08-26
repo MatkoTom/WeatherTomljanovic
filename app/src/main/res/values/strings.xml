@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherTomljanovic</string>
+    <string name="get_forecast">Get Forecast</string>
+    <string name="nothing_found">Nothing found, please try again!</string>
+    <string name="enter_city_name">Enter city name...</string>
+    <string name="today">Today</string>
+    <string name="placeholder">TextView</string>
+    <string name="today_forecast">First item is the forecast for today</string>
+</resources>
